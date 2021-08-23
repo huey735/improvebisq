@@ -28,6 +28,10 @@
 
    That's all that there is to it. And this role can surely be handed to the traders themselves so they can solve their issues. And if they can't come to an agreement, arbitration awaits them.
 
+   
+
+   ![trade-payout-tool-001](images/trade-payout-tool-001.png)
+
 3. ## How
 
    1. ### Add tools for the traders to negotiate a payout
